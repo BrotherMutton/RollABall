@@ -1,2 +1,2 @@
-# RollABall
-Tutorial 1. Roll a Ball Assignment
+# RollABall Challenge 1
+Challenge 1. Roll a Ball Assignment
